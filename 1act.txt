@@ -1,1 +1,21 @@
-.
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <div style="width: 210px; height: 210px; padding: 5px; display: inline-block; background-color: blue;">
+            <img src="file:///C:/Users/DATA%20SCIENCE%20LAB%2012/Downloads/jinbe%20(1).jpg">
+            <p>Image 1</p>
+        </div>
+        <div style="width: 210px; height: 210px; padding: 5px; display: inline-block; background-color: red;">
+            <img src="file:///C:/Users/DATA%20SCIENCE%20LAB%2012/Downloads/luffy.png">
+            <p>Image 2</p>
+        </div>
+        <div style="width: 210px; height: 210px; padding: 5px; display: inline-block; background-color: yellow;">
+            <img src="file:///C:/Users/DATA%20SCIENCE%20LAB%2012/Downloads/Sanji%20(1).webp ">
+            <p>Image 3</p>
+        </div>
+    </body>
+</html>
